@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DEV4PUZZLE_v3</string>
+    <string name="guardar">SAVE</string>
+    <string name="aceptar">ACCEPT</string>
+    <string name="jugar">PLAY</string>
+    <string name="musica">Music</string>
+    <string name="title_activity_ayuda">Help</string>
+    <string name="idioma">LANGUAGE</string>
+    <string name="seleccionIdioma">Choose your language</string>
+    <string name="nombre">"Name: "</string>
+    <string name="tiempo">"Time: "</string>
+    <string name="puntuación">Score</string>
+    <string name="ayuda">Help</string>
+    <string name="selectorAudio">"Audio selector "</string>
+    <string name="sonidoONOF">Sound ON/OFF</string>
+    <string name="eligeNivel">CHOOSE LEVEL</string>
+    <string name="nivelFacil">EASY</string>
+    <string name="nivelIntermedio">MEDIUM</string>
+    <string name="nivelDificil">HARD</string>
+    <string name="aceptarMinusculas">Accept</string>
+    <string name="cancelarMinusculas">Cancel</string>
+    <string name="guardarPartida">SAVE GAME</string>
+    <string name="jugadorGuardadoConExito">PLAYER SAVED SUCCESSFULLY!</string>
+    <string name="tiempoDePartida">"Game time: "</string>
+    <string name="finDePartida">END GAME</string>
+    <string name="enhorabuena">Congratulations! You\'ve completed the puzzle!</string>
+    <string name="ingresaNombre">"Enter your name: "</string>
+    <string name="mensajeRecord">"Congratulations! You've set a new record! "</string>
+
+    <string name="cerrar_sesi_n">LOG OUT</string>
+    <string name="iniciar_sesi_n">LOG IN</string>
+    <string name="español">SPANISH</string>
+    <string name="ingles">INGLÉS</string>
+    <string name="catala">CATALAN</string>
+    <string name="channel_name">" Beat record"</string>
+    <string name="channel_description">Channel used to send notifications when records are broken.</string>
+    <string name="logout">Session closed on Google</string>
+    <string name="login">" Login to Google"</string>
+
+</resources>

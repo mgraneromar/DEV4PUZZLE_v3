@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704344843466",
+    "project_id": "dev4puzzle-3bf9f",
+    "storage_bucket": "dev4puzzle-3bf9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704344843466:android:70d6c51fd2d445b008c033",
+        "android_client_info": {
+          "package_name": "com.example.dev4puzzle_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704344843466-d07b8mev2pablb5a7ladgmrcm2l0hclj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIY5bK1BL-UHg1FGfXS4Bu9aNV-mpM50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704344843466-d07b8mev2pablb5a7ladgmrcm2l0hclj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

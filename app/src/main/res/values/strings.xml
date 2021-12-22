@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DEV4PUZZLE_v3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="guardar">GUARDAR</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="aceptarMinusculas">Aceptar</string>
+    <string name="cancelarMinusculas">Cancelar</string>
+    <string name="jugar">JUGAR</string>
+    <string name="musica">Música</string>
+    <string name="seleccionIdioma">Selecciona tu idioma</string>
+    <string name="español">ESPAÑOL</string>
+    <string name="ingles">ENGLISH</string>
+    <string name="catala">CATALÁ</string>
+    <string name="idioma">IDIOMA</string>
+    <string name="nombre">Nombre: </string>
+    <string name="tiempo">Tiempo: </string>
+    <string name="puntuación">Puntuación</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="selectorAudio">Selector audio</string>
+    <string name="sonidoONOF">Sonido ON/OF</string>
+    <string name="eligeNivel">ELIGE NIVEL</string>
+    <string name="nivelFacil">FÁCIL</string>
+    <string name="nivelIntermedio">INTERMEDIO</string>
+    <string name="nivelDificil">DIFÍCIL</string>
+    <string name="guardarPartida">GUARDAR PARTIDA</string>
+    <string name="jugadorGuardadoConExito">¡JUGADOR GUARDADO CON ÉXITO!</string>
+    <string name="tiempoDePartida">"Tiempo de partida:  "</string>
+    <string name="finDePartida">FIN DE LA PARTIDA </string>
+    <string name="enhorabuena">¡Enhorabuena has resuelto el puzzle!</string>
+    <string name="ingresaNombre">Ingresa tu nombre: </string>
+    <string name="mensajeRecord">¡Enhorabuena, has batido un nuevo récord!</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_menu_main">MenuMain</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_menu_fullscreen">MenuFullscreenActivity</string>
+    <string name="title_activity_webview">webview</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+
+    <string name="channel_name">Superar récord</string>
+    <string name="channel_description">Canal utilizado para enviar notificaciones cuando se rompen récords.</string>
+
+    <string name="login">Sesión iniciada en Google</string>
+    <string name="logout">Sesión cerrada en Google</string>
+    <string name="cerrar_sesi_n">CERRAR SESIÓN</string>
+    <string name="iniciar_sesi_n">INICIAR SESIÓN</string>
+
+</resources>

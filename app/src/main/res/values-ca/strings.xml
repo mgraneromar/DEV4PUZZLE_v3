@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DEV4PUZZLE_v3</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="aceptar">ACCEPTAR</string>
+    <string name="aceptarMinusculas">Acceptar</string>
+    <string name="cancelarMinusculas">Cancel·lar</string>
+    <string name="jugar">JUGAR</string>
+    <string name="musica">Música</string>
+    <string name="seleccionIdioma">Selecciona el teu idioma</string>
+    <string name="español">ESPANYOL</string>
+    <string name="ingles">ANGLÈS</string>
+    <string name="catala">CATALÁ</string>
+    <string name="idioma">IDIOMA</string>
+    <string name="nombre">"Nom: "</string>
+    <string name="tiempo">"Temps: "</string>
+    <string name="ayuda">Ajuda</string>
+    <string name="puntuación">Puntuació</string>
+    <string name="selectorAudio">Selector àudio</string>
+    <string name="sonidoONOF">So ON/OF</string>
+    <string name="eligeNivel">TRIA NIVELL</string>
+    <string name="nivelFacil">FÀCIL</string>
+    <string name="nivelIntermedio">INTERMEDI</string>
+    <string name="nivelDificil">DIFÍCIL</string>
+    <string name="guardarPartida">GUARDAR PARTIDA</string>
+    <string name="jugadorGuardadoConExito">JUGADOR GUARDAT AMB ÈXIT!</string>
+    <string name="tiempoDePartida">"Temps de partida: "</string>
+    <string name="finDePartida">FINAL DE LA PARTIDA</string>
+    <string name="enhorabuena">Enhorabona has resolt el puzle!</string>
+    <string name="ingresaNombre">Ingressa el teu nom:</string>
+    <string name="mensajeRecord">Enhorabona, has batut un nou rècord!</string>
+    <string name="channel_name">Superar rècord</string>
+    <string name="channel_description">Canal utilitzat per enviar notificacions quan es trenquen rècords.</string>
+    <string name="cerrar_sesi_n">TANCAR SESSIÓ</string>
+    <string name="iniciar_sesi_n">INICIAR SESSIÓ</string>
+    <string name="title_activity_ayuda">" Ajuda"</string>
+    <string name="login">Sessió iniciada a Google</string>
+    <string name="logout">Sessió tancada a Google</string>
+</resources>
